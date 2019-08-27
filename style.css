@@ -1,0 +1,47 @@
+
+.fontOk {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fontOkNow {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bgAlt {
+    background-color: aliceblue;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.bgTop {
+    background-color: teal;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.bgMktg {
+    color: teal;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#testimonials {
+    background-color: turquoise;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bgChoice {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bgBottom {
+    background-color: teal;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
